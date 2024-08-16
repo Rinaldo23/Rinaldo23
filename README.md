@@ -46,3 +46,8 @@
 
 ### Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rinaldo23)
+
+# Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
