@@ -7,7 +7,10 @@
   </a>
 </div>
 
-## About Me
+## About Me 
+<!--![Profile Views](https://badges.pufler.dev/visits/rinaldo23/rinaldo23?style=flat-square&color=blue)-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rinaldo23&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-surya" /> </p>
 
 - 💼 **Currently working** as an **Engineer - Development** at **Cigniti Technologies**, specializing in **Automation Testing**.
   
@@ -56,20 +59,16 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 
 
-<!-- ## Most Used Languages:
+## Most Used Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinaldo23&layout=compact&theme=radical&hide_border=true)
 
 ## 📈 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rinaldo23&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rinaldo23&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
 
-## 📈 Stats
+<!-- ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinaldo23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="height: 200px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinaldo23&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" style="height: 200px;" />
-</div>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinaldo23&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical) -->
 
 ---
