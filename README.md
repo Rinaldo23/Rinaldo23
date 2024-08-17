@@ -23,6 +23,10 @@
 
 - 📫 Reach me at: **[rinaldobadigar@gmail.com](mailto:rinaldobadigar@gmail.com)**
 
+## Resume
+
+📄 Check out my [resume](https://drive.google.com/file/d/1CNuJ0D0OxnBpT_ZtS_iEaNYn-C2EBVEm/view?usp=sharing) for more details on my experience and skills.
+
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rinaldo-badigar)](https://www.linkedin.com/in/rinaldo-badigar)
