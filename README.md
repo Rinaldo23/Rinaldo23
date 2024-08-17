@@ -28,7 +28,7 @@
 
 ## Resume
 
-📄 Check out my [resume](https://drive.google.com/file/d/1CNuJ0D0OxnBpT_ZtS_iEaNYn-C2EBVEm/view?usp=sharing) for more details on my experience and skills.
+📄 Check out my [resume](https://drive.google.com/file/d/1CNuJ0D0OxnBpT_ZtS_iEaNYn-C2EBVEm/view?usp=drive_link) for more details on my experience and skills.
 
 ## Connect with me:
 
@@ -52,6 +52,7 @@
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white&style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![JMeter](https://img.shields.io/badge/-JMeter-FD5959?logo=jmeter&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
