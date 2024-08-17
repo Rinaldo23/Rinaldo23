@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: "Latest blog"
 on:
   schedule:
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -7,7 +7,7 @@ permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme-with-blog:
+  update-blogs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
@@ -16,4 +16,4 @@ jobs:
       - name: Pull in HashNode posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://hashnode.com/@Rinaldo/feed/"
+          feed_list: "https://rinaldo.hashnode.dev/"
