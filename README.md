@@ -67,8 +67,8 @@
 ## 📈 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinaldo23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="height: 200px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinaldo23&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinaldo23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="height: 200px;" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinaldo23&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" style="height: 200px;" width="48%" />
 </div>
 
 ---
