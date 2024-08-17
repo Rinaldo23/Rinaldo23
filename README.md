@@ -17,7 +17,7 @@
   
 - 🤝 Seeking collaboration on **building and optimizing CI/CD pipelines** using **Jenkins, GitHub Actions**, and **DevOps tools** to elevate test automation and ensure seamless software delivery.
   
-- 🌟 In my free time, I enjoy **writing blogs on Hashnode**. Check out my blogs [here](https://hashnode.com/@Rinaldo).
+- 🌟 In my free time, I enjoy **writing blogs on Hashnode**. Check out my blogs [Hashnode](https://hashnode.com/@Rinaldo).
 
 - 👨‍💻 Explore all of my projects on [GitHub](https://github.com/rinaldo23).
 
