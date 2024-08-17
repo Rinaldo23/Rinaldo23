@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate GitHub Snake
 
 on:
   schedule:
@@ -17,3 +17,5 @@ jobs:
         with:
           github_user: 'Rinaldo23'
           output_format: 'svg'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
