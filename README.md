@@ -28,7 +28,7 @@
 
 ## Resume
 
-📄 Check out my [resume](https://drive.google.com/file/d/1CNuJ0D0OxnBpT_ZtS_iEaNYn-C2EBVEm/view?usp=drive_link) for more details on my experience and skills.
+📄 Check out my [resume](https://drive.google.com/file/d/1bO5irKs61wlqgDsz5sBmkQq_CEybh-UX/view?usp=sharing) for more details on my experience and skills.
 
 ## Connect with me:
 
